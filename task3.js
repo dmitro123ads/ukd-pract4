@@ -1,0 +1,1 @@
+function equals(a, b)
